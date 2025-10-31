@@ -7,7 +7,8 @@ An AI that plays **Minesweeper** using logical inference. Instead of brute-force
 NB: It may take a few minutes to load! Please exercise patience.
 ---
 
-## 🧠 Overview
+## 🧠 Overview<img width="712" height="534" alt="minesweeper_game image" src="https://github.com/user-attachments/assets/02463661-596d-4be2-9326-3367f3548d86" />
+
 
 Minesweeper is a grid-based puzzle where revealed cells show the number of adjacent mines. This project implements a knowledge-based agent that:
 
