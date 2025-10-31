@@ -3,6 +3,9 @@
 An AI that plays **Minesweeper** using logical inference. Instead of brute-force model checking, this agent represents knowledge as sentences of the form `{cells} = count` (meaning *exactly* `count` mines among those `cells`) and derives safe moves and mines through logical updates and subset inference.
 
 ---
+🎮 Play it live: peramide.github.io/minesweeper
+NB: It may take a few minutes to load! Please exercise patience.
+---
 
 ## 🧠 Overview
 
